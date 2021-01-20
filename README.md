@@ -9,16 +9,4 @@
 ⚡ Living in Bali
 
 
-<!-- Actual text -->
-
-You can find me on [![Instagram][1.2]][1], or on [![LinkedIn][3.2]][3].
-
-<!-- Icons -->
-
-[1.2]: https://image.flaticon.com/icons/png/512/87/87390.png (instagram icon without padding)
-[2.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
-
-<!-- Links to your social media accounts -->
-
-[1]: https://www.instagram.com/dewasemadi/
-[2]: https://www.linkedin.com/in/dewasemadi/
+![](https://img.shields.io/badge/<WORD_ON_LEFT>-<WORD_ON_RIGHT>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
