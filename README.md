@@ -6,5 +6,5 @@
 
 ⚡ Living in Bali
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dewasemadi&layout=compact&theme=gradient)](https://github.com/dewasemadi/)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dewasemadi&layout=compact&theme=react)](https://github.com/dewasemadi/)
 
