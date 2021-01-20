@@ -8,4 +8,5 @@
 
 ⚡ Living in Bali
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dewasemadi&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
