@@ -7,3 +7,6 @@
 💬 Good understanding in front end web development such as HTML5, CSS3, bootstrap, materialize, modern ES6, webpack, dan PWA.
 
 ⚡ Living in Bali
+
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=<USERNAME>&theme=<THEME_NAME>" />
