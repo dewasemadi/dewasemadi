@@ -2,7 +2,7 @@
 
 😄 My name is I Dewa Putu Semadi, usually, people called me Semadi.
 
-❤ A Software Engineer (Front-end web developer role) at [codepanda](https://codepanda.id/)
+❤ A Software Engineer (front-end web developer role) at [codepanda](https://codepanda.id/)
 
 📫 You can reach me on [Instagram](https://www.instagram.com/dewasemadi/) / [Email](mailto:dewasemadi@apps.ipb.ac.id) / [LinkedIn](https://www.linkedin.com/in/dewasemadi/)
 
