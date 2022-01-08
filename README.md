@@ -19,10 +19,4 @@ I'm a fast learner and hardworking Computer Science Student at IPB University. R
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dewasemadi&layout=compact&theme=react)](https://github.com/dewasemadi/)
 
-### Recent projects
-[PSN 2021](https://pestasains.ipb.ac.id/)
-[infoCovid](https://info-korona.netlify.app/)
-[Kulineran](https://kulineran.netlify.app/)
-[Auth-RESTful-API-Expressjs](https://github.com/dewasemadi/RESTFul-API-Auth-ExpressJS-JWT-MongoDB)
-[Java-Springboot-RESTful-API](https://github.com/dewasemadi/Java-Spring-Boot-Rest-API-MySQL)
-[Computer-Graphics-Unity-Game](https://github.com/dewasemadi/grafkom-game)
+
