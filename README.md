@@ -1,4 +1,4 @@
-# Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# Hello, folks!
 
 ### You can call me Dewa
 I'm a fast learner and hardworking Computer Science Student at IPB University. Really interested in Frontend Development. Currently, working part time at [codepanda](https://codepanda.id/) as a Frontend Engineer. Reach me out on [Instagram](https://www.instagram.com/dewasemadi/) / [Email](mailto:dewasemadi@apps.ipb.ac.id) / [LinkedIn](https://www.linkedin.com/in/dewasemadi/) to talk more about frontend works!
