@@ -16,7 +16,3 @@ I'm a fast learner and hardworking Computer Science Student at IPB University. R
 <a href="https://getbootstrap.com/" title="Bootstrap"><img src="https://github.com/get-icon/geticon/raw/master/icons/bootstrap.svg" alt="Bootstrap" width="21px" height="21px"></a>
 <a href="https://git-scm.com/" title="Git"><img src="https://github.com/get-icon/geticon/raw/master/icons/git-icon.svg" alt="Git" width="21px" height="21px"></a>
 <a href="https://code.visualstudio.com/" title="Visual Studio Code"><img src="https://github.com/get-icon/geticon/raw/master/icons/visual-studio-code.svg" alt="Visual Studio Code" width="21px" height="21px"></a>
-
-[![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=dewasemadi&layout=compact&langs_count=8&theme=react)](https://github.com/dewasemadi/)
-
-
