@@ -1,10 +1,10 @@
 # Hello, folks!
 
 ### You can call me Dewa
-I'm a fast learner and hardworking Computer Science Student at IPB University. Really interested in Frontend Development. Currently, working part time at [codepanda](https://codepanda.id/) as a Frontend Engineer. Reach me out on [Instagram](https://www.instagram.com/dewasemadi/) / [Email](mailto:dewasemadi@apps.ipb.ac.id) / [LinkedIn](https://www.linkedin.com/in/dewasemadi/) to talk more about frontend works!
+I'm a fast learner and hardworking Computer Science Student at IPB University. Really interested in Frontend Development. Currently, working at [Rakamin Academy](https://www.rakamin.com/) as a Frontend Engineer (full-time). Reach me out on [Instagram](https://www.instagram.com/dewasemadi/) / [Email](mailto:dewasemadi@apps.ipb.ac.id) / [LinkedIn](https://www.linkedin.com/in/dewasemadi/) to talk more about frontend works!
 
 
-### I'm familiar with these tech stacks
+### Tools & programming languages
 
 <a href="https://www.typescriptlang.org/" title="Typescript"><img src="https://github.com/get-icon/geticon/raw/master/icons/typescript-icon.svg" alt="Typescript" width="21px" height="21px"></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript"><img src="https://github.com/get-icon/geticon/raw/master/icons/javascript.svg" alt="JavaScript" width="21px" height="21px"></a>
