@@ -1,7 +1,7 @@
 # Hello, folks!
 
 ### You can call me Dewa
-I'm a fast learner and hardworking Computer Science Student at IPB University. Passionate in Frontend Development. Currently, working at [Rakamin Academy](https://www.rakamin.com/) as a Frontend Engineer (full-time). Reach me on [Instagram](https://www.instagram.com/dewasemadi/) / [Email](mailto:dewasemadi3@gmail.com) / [LinkedIn](https://www.linkedin.com/in/dewasemadi/) to talk more about frontend work!
+I'm a fast learner and hardworking Computer Science Student at IPB University. Passionate in Frontend Development. Currently, working at [GoTo](https://www.gotocompany.com/) as a software engineer - web platform. Reach me on [Instagram](https://www.instagram.com/dewasemadi/) / [Email](mailto:dewasemadi3@gmail.com) / [LinkedIn](https://www.linkedin.com/in/dewasemadi/) to talk more about frontend work!
 
 
 ### Tools & programming languages
