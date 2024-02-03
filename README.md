@@ -1,7 +1,6 @@
 # Hello, folks!
 
-### You can call me Dewa
-I'm a fast learner and hardworking Computer Science Student at IPB University. Passionate in Frontend Development. Currently, working at [GoTo](https://www.gotocompany.com/) as a software engineer - web platform. Reach me on [Instagram](https://www.instagram.com/dewasemadi/) / [Email](mailto:dewasemadi3@gmail.com) / [LinkedIn](https://www.linkedin.com/in/dewasemadi/) to talk more about frontend work!
+Meet Dewa, a seasoned web platform engineer with 2+ years of experience in helping build technologies for startup and enterprise companies. Familiar with TypeScript and ReactJS, Dewa has played a key role in crafting user-friendly interfaces and enhancing overall user experiences across various projects. Eager to contribute innovative solutions to the ever-evolving tech landscape.
 
 
 ### Tools & programming languages
